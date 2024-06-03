@@ -1,6 +1,6 @@
 # Norah-Projects I have worked on at the Apple Developers Academy
 
-I participated in these projects by working as a UX/UI designer and a front-end developer.
+I participated in these projects by working as a UX/UI designer and front-end developer.
 # Molhem 
 an app that empowers individuals seeking assistance in inventing research by providing AI-guided support to refine and enhance ideas. With access to diverse tools and resources, users can have effortless ideation process.
 📲 Available on the App Store 
